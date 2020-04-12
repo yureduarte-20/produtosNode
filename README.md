@@ -1,2 +1,0 @@
-# produtosNode
-Created with CodeSandbox
